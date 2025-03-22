@@ -41,4 +41,10 @@ If there are any issues let me know!
 
 ------
 
+**THIS IS FOR ADVANECED USERS.**
+
+The Experimental file has functioning slash commands HOWEVER: there is a file limit.
+
+For the exerimental file to work you need image_utils.py and cloudflare_buster.py
+
 
