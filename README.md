@@ -9,6 +9,8 @@ You need to change these 3 varibles: TOKEN, CHANNEL_ID, and DOWNLOAD_FOLDER
 
 Yes you do need to use a bot for this to work that's what the TOKEN varible is for.
 
+The .bat file is needed to install all the libraries. You can right click and edit the batch file and you will only find 4 lines of code nothing suspious.
+
 --------------
 
 
@@ -46,5 +48,7 @@ If there are any issues let me know!
 The Experimental file has functioning slash commands HOWEVER: there is a file limit.
 
 For the exerimental file to work you need image_utils.py and cloudflare_buster.py
+
+
 
 
